@@ -26,8 +26,10 @@ Steps necessary for the success of the project:
 
 - Data Preparation : Data preparation is the step where data to be used is determined,data mining goals must be solidified, along with data cleaning and integration processes.
 1- Missing values or outliers :
+
 - The dataset doesn’t include any missing values but diamonds with z equal to 0 or greater than 10, y equal to 0 or greater than 10 and x equal to 0 are outliers.
 2- Dummy variables for categorical variables :
+
 - The dataset includes 3 categorical variables (cut, color, and clarity). I chose to create dummy variables for those categorical variables using a “replace” function.
 
 - Modeling: 
