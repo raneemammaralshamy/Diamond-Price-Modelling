@@ -32,7 +32,7 @@ Steps necessary for the success of the project:
 
 2- Dummy variables for categorical variables :
 
-- The dataset includes 3 categorical variables (cut, color, and clarity). I chose to create dummy variables for those categorical variables using a “replace” function.
+The dataset includes 3 categorical variables (cut, color, and clarity). I chose to create dummy variables for those categorical variables using a “replace” function.
 
 - Modeling: 
 
