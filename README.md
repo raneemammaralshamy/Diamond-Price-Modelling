@@ -31,6 +31,7 @@ Steps necessary for the success of the project:
 - The dataset includes 3 categorical variables (cut, color, and clarity). I chose to create dummy variables for those categorical variables using a “replace” function.
 
 - Modeling: 
+
 1- This is where most of the work is done, with the modeling method being integral to the kind of problem to be solved. If the wrong method is used, the results obtained will not be comparable to results gained when the method is right.
 
 2- A test model must also be designed for proof-of-concept and suitability tests. The model should also be fitted for the problem, with testing and backpropagation being important parts if the model used is a neural network.
